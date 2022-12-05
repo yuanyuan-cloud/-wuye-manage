@@ -1,0 +1,19 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "name": "admin@163.com",
+      "pwd": "admin123"
+    },
+    {
+      "name": "111@163.com",
+      "pwd": "86a375aacb17606c185d31c8d3e320ce",
+      "id": 21
+    },
+    {
+      "name": "admin@163.com",
+      "pwd": "0192023a7bbd73250516f069df18b500",
+      "id": 22
+    }
+  ]
+}
