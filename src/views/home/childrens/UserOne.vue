@@ -1,6 +1,6 @@
 <template>
   <div>
-    住户信息统计
+    <router-view></router-view>
   </div>
 </template>
 

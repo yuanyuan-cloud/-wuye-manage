@@ -21,16 +21,16 @@ import Lm from "../../components/LeftMenu.vue"
 import Rm from "../../components/RightTop.vue"
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 
     .el-aside{
-        background-color: pink;
+        background-color: #545c64;
     }
     .el-header{
-        background-color: gold;
+        // background-color: gold;
     }
     .el-main{
-        background-color: burlywood;
+        background-color: gainsboro;
     }
 
     .el-aside,.el-container,.common-layout,#app,body,html{
